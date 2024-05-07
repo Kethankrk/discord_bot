@@ -57,7 +57,7 @@ create a .env file to store your discord bot key and add KEY=YOUR_KEY
 KEY=YOUR_KER
 ```
 
-## Step 6: Run the server
+## Step 6: Run server
 
 ```
 python main.py
