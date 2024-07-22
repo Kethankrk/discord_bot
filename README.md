@@ -13,9 +13,9 @@ First, you need to obtain the project code. You can either:
 
 - Clone the project repository from a version control system like Git.
   ```
-  git clone 
+  git clone https://github.com/Kethankrk/discord_bot.git
   ```
-- Download the project code as a ZIP file and extract it.
+- Or download the project code as a ZIP file and extract it.
 
 ## Step 2: Create a Virtual Environment (Optional but Recommended)
 
