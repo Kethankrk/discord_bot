@@ -54,7 +54,7 @@ This will install all the required packages listed in the `requirements.txt` fil
 create a .env file to store your discord bot key and add KEY=YOUR_KEY
 
 ```
-KEY=YOUR_KER
+KEY=YOUR_KEY
 ```
 
 ## Step 6: Run server
